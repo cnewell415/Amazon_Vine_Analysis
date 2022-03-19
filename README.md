@@ -22,19 +22,19 @@ At that point I split the data into the vine [paid_reviews] and non-vine [unpaid
 
 * ### Total number of non-Vine Reviews = 570,181
 
-![Total Non-Vine Reviews](/vine_5_star.png) 
+![Total Non-Vine Reviews](/nonvine_total.png) 
 
 * ### Total 5-Star Vine Reviews = 210
 
-![Total 5-Star Vine Reviews](/vine_5_star_percent.png)
+![Total 5-Star Vine Reviews](/vine_5_star.png)
 
 * ### Total 5-Star non-Vine Reivews = 291,254
 
-![Total 5-Star Non-Vine Reivews](/nonvine_total.png)
+![Total 5-Star Non-Vine Reivews](/nonvine_5_star.png)
 
 * ### Percentage of Vine reviews that were 5 stars = 46.46%
 
-![Percentage of 5-Star Vine Reviews](/nonvine_5_star.png) 
+![Percentage of 5-Star Vine Reviews](/vine_5_star_percent.png) 
 
 * ### Percentage of non-Vine reviews that were 5 stars = 51.08%
 
