@@ -41,7 +41,7 @@ At that point I split the data into the vine [paid_reviews] and non-vine [unpaid
 ![Percentage of 5-Star Non-Vine Reviews](/nonvine_5_star_percent.png) 
 
 ## Summary
-These results show that there is no positivity bias for reviews in the Vine program. The percentage of 5-star reviews is slightly below those outside the Vine program, adn we would expect the opposite if there was a positive bias. 
+These results show that there is no positivity bias for reviews in the Vine program. The percentage of 5-star reviews is slightly below those outside the Vine program, and we would expect the opposite if there was a positive bias. 
 
 
 ## Author
